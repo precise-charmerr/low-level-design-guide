@@ -1,0 +1,23 @@
+# Java / IDE
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+target/
+build/
+out/
+.gradle/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated output
+*.log
+coverage/
